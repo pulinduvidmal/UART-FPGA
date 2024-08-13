@@ -36,8 +36,4 @@
 - Successfully demonstrated UART communication between two FPGA boards.
 - Validated the implementation through both simulation and practical testing, confirmed by oscilloscope waveform analysis.
 
-## How to Use This Project
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
