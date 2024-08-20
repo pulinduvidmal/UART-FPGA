@@ -5,7 +5,7 @@
 - This project involves the design, implementation, and verification of a UART (Universal Asynchronous Receiver/Transmitter) transceiver using Verilog RTL.
 - The implementation was carried out on Cyclone® IV EP4CE22F17C6N FPGA using Quartus Prime software.
 
-## Assignment Tasks
+## Tasks
 
 1. **Verilog RTL Design**: 
    - Sourced and refined a Verilog RTL code for the UART transceiver.
